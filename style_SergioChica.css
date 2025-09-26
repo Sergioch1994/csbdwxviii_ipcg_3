@@ -5,5 +5,28 @@ header {
     text-align: center;
     font-family: Arial, sans-serif;
     margin-bottom: 20px;
+    height: 200px;
+    
 } 
 
+.logo-container {
+    width: 20
+;
+    text-align: left;
+    height: auto;
+    margin-bottom: 20px;
+}
+LogoPracticaTenis.png {
+    max-width: 100%;
+    position: top;
+}
+footer {
+    background-color: #4CAF50;
+    text-align: left;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    font-family: Arial, sans-serif;
+    margin-top: 20px;
+}   
