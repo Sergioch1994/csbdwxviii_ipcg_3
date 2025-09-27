@@ -52,3 +52,32 @@ nav ul li {
     text-decoration: none;
     
 }
+
+.github-logo {
+  width: 100px;
+  height: 100px;
+  vertical-align: right;
+  margin-left: 1220px;
+    margin-top: -55px;
+}
+
+.section1 {
+  margin-bottom: 100px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  color: brown;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+p {
+  line-height: 1.6;
+  margin-bottom: 10px;
+  text-align: center;
+}
