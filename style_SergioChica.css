@@ -26,12 +26,11 @@ footer {
 }
 
 h1 {
-    font-style: italic;
-    font-size: 40px;
-    margin-top: -90px;
-    color: whitesmoke;
-    border-color: aliceblue;
-  
+  font-style: italic;
+  font-size: 40px;
+  margin-top: -90px;
+  color: whitesmoke;
+  border-color: aliceblue;
 }
 
 nav ul {
@@ -39,18 +38,17 @@ nav ul {
   padding: 0;
   text-align: center;
   color: whitesmoke;
-  background-color:whitesmoke;
+  background-color: whitesmoke;
   margin: 0;
 }
 
 nav ul li {
   display: inline;
   margin: 0 15px;
-    font-size: 18px;
-    font-weight: bold;
-    color: white;
-    text-decoration: none;
-    
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
 }
 
 .github-logo {
@@ -58,7 +56,7 @@ nav ul li {
   height: 100px;
   vertical-align: right;
   margin-left: 1220px;
-    margin-top: -55px;
+  margin-top: -55px;
 }
 
 .section1 {
@@ -80,4 +78,16 @@ p {
   line-height: 1.6;
   margin-bottom: 10px;
   text-align: center;
+}
+.seek-container {
+  text-align: right;
+  margin-bottom: 20px;
+  box-shadow: brown;
+  font-family: Arial, sans-serif;
+}
+.RS-logo {
+display: inline-flexbox;
+  width: 30px;
+  height: 30px;
+  margin-left: 50px;
 }
