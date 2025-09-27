@@ -1,32 +1,54 @@
 header {
-    background-color: #4CAF50;
-    color: white;
-    padding: 10px 0;
-    text-align: center;
-    font-family: Arial, sans-serif;
-    margin-bottom: 20px;
-    height: 200px;
-    
-} 
-
-.logo-container {
-    width: 20
-;
-    text-align: left;
-    height: auto;
-    margin-bottom: 20px;
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 0;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-bottom: 20px;
+  height: 200px;
 }
-LogoPracticaTenis.png {
-    max-width: 100%;
-    position: top;
+
+.logo {
+  max-width: 15%;
+  position: top left;
+  margin-top: -30px;
+  margin-left: -1150px;
 }
 footer {
-    background-color: #4CAF50;
-    text-align: left;
-    padding: 10px 0;
-    position: relative;
-    bottom: 0;
-    width: 100%;
-    font-family: Arial, sans-serif;
-    margin-top: 20px;
-}   
+  background-color: #4caf50;
+  text-align: left;
+  padding: 10px 0;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  font-family: Arial, sans-serif;
+  margin-top: 20px;
+}
+
+h1 {
+    font-style: italic;
+    font-size: 40px;
+    margin-top: -90px;
+    color: whitesmoke;
+    border-color: aliceblue;
+  
+}
+
+nav ul {
+  flex-direction: row;
+  padding: 0;
+  text-align: center;
+  color: whitesmoke;
+  background-color:whitesmoke;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 15px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    
+}
