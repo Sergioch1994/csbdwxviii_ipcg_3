@@ -9,6 +9,7 @@
 }
 
 .item {
+    font-family:"SUSE Mono", sans-serif;
     display: flex;
     justify-content: center;
     padding: 20px;
@@ -48,6 +49,8 @@
 }
 
 .item8 { background-color: rgb(128, 128, 128);
+    font-family: "Bitcount Prop Single Ink",system-ui;
+    font-size: 200px;
     grid-row: 4 / 6;
     grid-column: 1 / 3;
 }
